@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Firefinder48
-- 👀 I’m interested in ...
+- 👀 I’m interested in HTML, CSS, Javascript, Python, C++ and C#
 - 🌱 I’m currently learning COBOL 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any task!
+- 📫 How to reach me
 
 <!---
 Firefinder48/Firefinder48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
